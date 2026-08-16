@@ -271,7 +271,6 @@ After adding screenshots to `Screenshots/`:
 
 ![Retrieval Workflow](Screenshots/Retrieval-workflow.png)
 
-![Supabase Vector Store](Screenshots/Supabase-vector-store.png)
 
 
 ## 🎓 What This Project Demonstrates
