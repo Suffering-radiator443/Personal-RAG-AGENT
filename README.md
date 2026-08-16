@@ -268,11 +268,11 @@ Execute the retrieval workflow and ask questions related to the indexed knowledg
 After adding screenshots to `screenshots/`:
 
 ```markdown
-![Ingestion Workflow](screenshots/ingestion-workflow.png)
+![Ingestion Workflow](Screenshots/ingestion-workflow.png)
 
-![Retrieval Workflow](screenshots/retrieval-workflow.png)
+![Retrieval Workflow](Screenshots/retrieval-workflow.png)
 
-![Supabase Vector Store](screenshots/supabase-vector-store.png)
+![Supabase Vector Store](Screenshots/supabase-vector-store.png)
 ```
 
 ## 🎓 What This Project Demonstrates
