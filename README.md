@@ -268,7 +268,7 @@ Execute the retrieval workflow and ask questions related to the indexed knowledg
 After adding screenshots to `Screenshots/`:
 
 ```markdown
-![Ingestion Workflow](Screenshots/Ingestion-workflow.png)
+![Ingestion-workflow](Screenshots/Ingestion-workflow.png)
 
 ![Retrieval Workflow](Screenshots/Retrieval-workflow.png)
 
